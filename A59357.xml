@@ -1,0 +1,1802 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The subjects joy for the Kings restoration, cheerfully made known in a sacred masque gratefully made publique for His Sacred Majesty / by the author of Inqvisitio Anglicana.</title>
+            <author>Sadler, Anthony, b. 1610.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59357</idno>
+            <idno type="STC">Wing S273</idno>
+            <idno type="STC">ESTC R7841</idno>
+            <idno type="EEBO-CITATION">11902796</idno>
+            <idno type="OCLC">ocm 11902796</idno>
+            <idno type="VID">50598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The subjects joy for the Kings restoration, cheerfully made known in a sacred masque gratefully made publique for His Sacred Majesty / by the author of Inqvisitio Anglicana.</title>
+                  <author>Sadler, Anthony, b. 1610.</author>
+               </titleStmt>
+               <extent>[9], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" and "To the candid reader" signed: Anthony Sadler.</note>
+                  <note>Caption title: A divine masque.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Masques.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Drama.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:50598:1"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Loe this is the man that tooke not god for his ſtrenght but trusted vnto the multitude of his riches and ſtrengthen'd himſelfe in his wickedneſs P<hi rend="sup">s</hi>:</hi> 52: 7 *</p>
+                  <p>
+                     <hi>Ieroboam</hi>
+                  </p>
+                  <p>
+                     <hi>Regno</hi>
+                  </p>
+                  <p>
+                     <hi>Regna<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i</hi>
+                  </p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>Sis Sine regno</hi>
+                  </p>
+                  <p>
+                     <hi>Sold at the greyhound in S<hi rend="sup">t</hi> Pauls Church yeard</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50598:1"/>
+            <p>THE SUBJECTS JOY FOR The Kings Reſtoration, Cheerfully made known IN A Sacred MASQUE: Gratefully made publique FOR His saCRed Majeſty.</p>
+            <p>By the Author of <hi>INQ<g ref="char:V">Ʋ</g>ISITIO ANGLICANA.</hi>
+            </p>
+            <bibl>2 KING. XI. 12.</bibl>
+            <q>And he brought forth the <hi>Kings Son,</hi> and put the <hi>Crown</hi> upon him; and gave him the <hi>Teſtimony,</hi> and they made him <hi>King;</hi> and <hi>Anointed</hi> him, and clapt their hands, and ſaid—<hi>God ſave the</hi> KING.</q>
+            <p>
+               <hi>LONDON:</hi> Printed, in the year of Grace, for <hi>James Davis,</hi> and are to be ſold at the <hi>Greyhound</hi> in St. <hi>Pauls</hi> Church-yard. 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50598:2"/>
+            <pb facs="tcp:50598:2"/>
+            <head>To His EXCELLENCY The Lord General MONCK.</head>
+            <opener>
+               <salute>Heroick Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE preſent affairs of this Kingdom, are, ſo providentially managed, by God; ſo prudentially, by You; and ſo happily—opportunely, for the building up, the Ruins; and re<g ref="char:EOLhyphen"/>pairing of the Breaches, both in Church, and State: that, the Factioniſt, malignes; the Temporiſt, ad<g ref="char:EOLhyphen"/>mires; and Royalliſt, congratulates; ſo hopeful a beginning.</p>
+            <p>Let it not then diſpleaſe (my Lord) if now, one of thoſe poor grateful Royalliſts; hath (in this ſpring of hope) ſo cheerful a boldneſs, as to beg the favour of your Excellency, to Patronize this Peece.</p>
+            <p>This Peece (I confeſs) is Theatrical, New, and
+<pb facs="tcp:50598:3"/>
+Strange; Strange, but yet Pertinent; New, but yet Serious; and Theatrical, but yet Sacred.</p>
+            <p>Nor am I in This, either ſingular, or affected; while <hi>Apollinarius</hi> and <hi>Nazianzen</hi> (two antient Fathers of the Primitive Church) are known to be exemplary in this very way.</p>
+            <p>The truth is, I am now upon the well-tun'd Put (with my Palm, and my Pſalm) to chant an <hi>Hoſan<g ref="char:EOLhyphen"/>na</hi> for the Kings Reception.</p>
+            <p>I am now upon the joyful Stage, to play the devout Comaedian; and by a new Triumphal, to court the affections, of the moſt Diſloyall.</p>
+            <p>Upon the Stage I am, that (as by a true reflection, to ſhew the radiancy of my divine zeal) ſo, I might (by congruous Divinity) render <hi>Corah</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding his holy Plea) Rebellious: and Treaſon (notwithſtanding <hi>Garnet's</hi> Straw, and <hi>Becket's</hi> Canonization) in the Abſtract, hateful, both to God, and man.</p>
+            <p>Religion and Allegience, are the wings of the ſoul, to mount her unto Heaven: and the preſent Maſque, is, but to preſerve the Beauty, of ſo fair an Allegati<g ref="char:EOLhyphen"/>on; and to atteſt before the world, my utter abhor<g ref="char:EOLhyphen"/>rency of the leaſt Confederation, againſt the Higher Powers.</p>
+            <p>Oh Sir! may the Higher Powers be, as ſafe, as
+<pb facs="tcp:50598:3"/>
+ſacred: and may That SaCRed Perſon, into whoſe hands, God, by his Grace; Nature, by Deſcent; and the Law, by Right; have ſucceſſively given the Globe and the Scepter: may, He,—ah may He be, as happy, as He is Good; and as Good, as He is Great: the Beſt of Men, crowned with the Beſt of Bleſſings.</p>
+            <p>Sir—your Excellency is now, the Renowned Inſtrument, of wonderful Tranſactions: In the name of God, go on, and proſper.</p>
+            <p>Certainly (my Lord) if your auſpicious ſelf, ſhall (with this hopefully-happy Parliament) go on, to Act for God; and the good of his diſtreſſed People:</p>
+            <p>By Enthroning, <hi>The moſt Illuſtrious Prince,</hi> And <hi>Our Lawful King,</hi> Charles the Second:</p>
+            <lg>
+               <l>
+                  <hi>For the</hi> Setling, <hi>of the</hi> State:</l>
+               <l>
+                  <hi>For the</hi> Reforming, <hi>of the</hi> Church:</l>
+               <l>
+                  <pb facs="tcp:50598:4"/>
+                  <hi>For the</hi> Eſtabliſhing, <hi>of the</hi> Lawes:</l>
+               <l>
+                  <hi>And the</hi> Maintaining, <hi>our</hi> Reiigion;</l>
+               <l>
+                  <hi>That moſt true,</hi> Proteſtant Religion,</l>
+               <l>
+                  <hi>Of the</hi> Church <hi>of</hi> England:</l>
+            </lg>
+            <p>I am confident,—You ſhall as ſurely Proſper, in having,</p>
+            <lg>
+               <l>
+                  <hi>The</hi> Holy Spirit of God, <hi>to be</hi> Your Guid:</l>
+               <l>
+                  <hi>The</hi> holy Angels of God, <hi>to be</hi> Your Guard:</l>
+               <l>
+                  <hi>Here, to be</hi> Famous; <hi>and Hereafter, to be</hi> Glo<g ref="char:EOLhyphen"/>rious; <hi>as there is a God, in Heaven.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>So Believeth, and Affirmeth;</hi>—
+Ever Devoted—
+To God:—
+His Prince:—
+And Countrey,
+Anthony Sadler.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50598:4"/>
+            <head>TO THE Candid Reader.</head>
+            <lg>
+               <l>THis is the Month, this is That Month of Marth,</l>
+               <l>Which Tunes our Noats to ſing our Princes Birth.</l>
+               <l>This is that Month, this is The Month of <hi>May,</hi>
+               </l>
+               <l>Which Loyall <hi>London</hi> cals her Holy-day.</l>
+            </lg>
+            <lg>
+               <l>The Prince (as now new Born) from the wombe,</l>
+               <l>Of Hardeſt Travail, is Deliver'd.—Come—</l>
+               <l>The Midwifery of Heaven, doth Preſent</l>
+               <l>A saCRed Monarch, to the Parliament:</l>
+               <l>And That, to Us; and We, to Heaven again,</l>
+               <l>Preſent our Thanks, and Bleſs our Soveraign.</l>
+            </lg>
+            <lg>
+               <l>Rejoyce (my ſoul) to ſee the Prince of Worth,</l>
+               <l>(The Worlds wonder) brought ſo Timely forth.</l>
+               <l>Rejoyce Bleſt Prince, thy Throne is bleſt with Peace:</l>
+               <l>Thy welcome Income, makes our Wars to ceaſe.</l>
+               <l>Rejoyce my Fellow-Subjects, All, as One,</l>
+               <l>Congratulate the Riſing of This Sonne;</l>
+               <l>Whoſe Royall Luſtre hath diſpell'd our Fears,</l>
+               <l>And Clouds of Grief, to drop with Joyful Tears.</l>
+            </lg>
+            <closer>
+               <signed>Anthony Sadler.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:50598:5"/>
+            <p>In this MASQ<g ref="char:V">Ʋ</g>E are</p>
+            <list>
+               <item>6. Shewes.</item>
+               <item>10. Speeches.</item>
+               <item>3. Songs.</item>
+            </list>
+         </div>
+         <div type="dramatis_personae">
+            <head>The Perſons in the ſeveral <hi>Shews,</hi> Speaking the ſeveral <hi>Speeches,</hi>
+            </head>
+            <list>
+               <head>Are</head>
+               <item>Pſyche.</item>
+               <item>King <hi>David.</hi>
+               </item>
+               <item>King <hi>Abijah.</hi>
+               </item>
+               <item>His Queen-Mother.</item>
+               <item>Two Dukes, his Brothers.</item>
+               <item>The High Prieſt.</item>
+               <item>The Lord General.</item>
+               <item>The Prophet <hi>Shemaiah.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="setting">
+            <head>The Scene,</head>
+            <p>For the <hi>Land</hi> is <hi>Canaan.</hi> For the <hi>Place</hi> is <hi>Bethel.</hi> For the <hi>Person</hi> is <hi>Jeroboam.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50598:5"/>
+            <head>A Divine Maſque.</head>
+            <div type="speech">
+               <head>The private Speech OF The <hi>A<g ref="char:V">Ʋ</g>THOR</hi> In Society with his Friends, to entertain the Time before the Maſque begun.</head>
+               <p>YOu know (Dear Friends)</p>
+               <p>That, <hi>Video, Vindico;</hi> is God's Motto upon Traitors: but it is our duty to wait Gods time; for, he that <hi>ſhall</hi> come, <hi>will:</hi> and he that <hi>will</hi> come, is; to the help of his Anointed.</p>
+               <p>God (hath in mercy) made his people to return, return to their duty, of Praying for the King.</p>
+               <p>
+                  <pb n="2" facs="tcp:50598:6"/>His very Name now, is pretious; his Preſence, long'd for; and a General joy, attends the hope, to ſee him, in his Throne.</p>
+               <p>So that now (ſeeing) the Royal Son, begin to riſe; and my Loyal fancy, to be as lucky, as divine:</p>
+               <lg>
+                  <l>My heart reviv'd, my Muſe rejoyc'd, to bring,</l>
+                  <l>Her Off-ſpring out, to welcome in, the King.</l>
+                  <l>Two Virgins (dreſs'd in Print) with bleſt accord,</l>
+                  <l>To give a <hi>Salve,</hi> unto our Soveraign Lord.</l>
+               </lg>
+               <p>The Elder, is a Sybillian; and to acheer the King) doth (by a Prophetick Pen) write a Praediction, in a Lamentation.</p>
+               <p>The Younger, is a Maſquer; and ſhe alſo (to acheer the King) doth (by pretty Scenes) praeſaging<g ref="char:EOLhyphen"/>ly-praeact, his (juſt) Inauguration.</p>
+               <p>They are Both, the Iſſue, of one Parent; Legiti<g ref="char:EOLhyphen"/>mate, and Loyal: but—upon the very Concepti<g ref="char:EOLhyphen"/>on of the Maſquer; much troubled I was; on whom, and where, and how, to lay the Scene.</p>
+               <p>I once thought to have made <hi>England,</hi> the Na<g ref="char:EOLhyphen"/>tion; <hi>Weſtminſter,</hi> the Place; and then—</p>
+               <lg>
+                  <l>My purpoſe was, the Powder-traitors Plot;</l>
+                  <l>For to have made my Subject; and their Lot,</l>
+                  <l>(To Ruine caſt) have ſhewn. I had thought,</l>
+                  <l>To've made their way, a Warning; and had brought,</l>
+                  <l>Examples, pertinent; prophane, but ture;</l>
+                  <l>To make their ſhame, as fearful, as its due.</l>
+               </lg>
+               <lg>
+                  <l>But, this not fully reaching, to the aim,</l>
+                  <l>Of what I would; I then, begun again;</l>
+                  <l>Conſulted God, and took my Object higher;</l>
+                  <l>I made my Subject, ſacred; and came nigher,</l>
+                  <l>
+                     <pb n="3" facs="tcp:50598:6"/>To ſhew a Traitors Doom from Scripture: then—</l>
+                  <l>I pitch'd on <hi>Zedekiah.</hi>—</l>
+               </lg>
+               <lg>
+                  <l>Knowing well,</l>
+                  <l>That, <hi>Zedekiah</hi> when he did Rebell,</l>
+                  <l>Againſt th' Covenant, made; and Oath, he took;</l>
+                  <l>To be the King of <hi>Babels</hi> Vice-Roy—look.</l>
+                  <l>Oh how the faithful God, did take to heart;</l>
+                  <l>The wrong, thus offer'd, unto Either Part:</l>
+                  <l>His (1) Name; the Heathens (2) Right, and <hi>Iſraels</hi> (3) Law:</l>
+                  <l>Made (1) Vain; as (2) Void; and (3) Vile: by <hi>Zedekiah.</hi>
+                  </l>
+                  <l>Treaſons abhord: and God would make him know it;</l>
+                  <l>And (maugre <hi>Egypt,</hi> and all's Force) did ſhow it.</l>
+                  <l>The <hi>Caldee</hi> Army came at length, to prove,</l>
+                  <l>A Traitors tongue, calls Vengance from Above;</l>
+                  <l>And God, and Man, to right ſuch wrongs doth move.</l>
+                  <l>
+                     <hi>Jeruſalem,</hi>—that ſtrong and ſtately City,</l>
+                  <l>Is cloſe beſieg'd; without regard, or pity,</l>
+                  <l>Of either Place, or Perſons; want, within;</l>
+                  <l>And Fear, without; makes every face look thin.</l>
+               </lg>
+               <lg>
+                  <l>Within, they faint; without the walls, they fall;</l>
+                  <l>The City's broken up; the King, and All,</l>
+                  <l>Fly for their Lives:—but, whither ſhall they fly,</l>
+                  <l>Whom God purſues, with's Anger's Hue and Cry?</l>
+               </lg>
+               <lg>
+                  <l>King <hi>Zedekiah</hi> (now the woful ſcorn,</l>
+                  <l>Of the <hi>Chaldean</hi> Army) is forlorn:</l>
+                  <l>(Purſude, and taken) he is Vilifi'd;</l>
+                  <l>To <hi>Riblah</hi> hurried: and there juſtly tri'd:</l>
+                  <l>Tri'd by the Prince abus'd; and the ſame King,</l>
+                  <l>Who gave him leave to Rule, as Underling;</l>
+                  <l>He is his Judge; and rightfully condemns,</l>
+                  <l>His Treaſons, and his Traitrous ſtratagems.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:50598:7"/>
+                  <l>He ſlayes his Sons before him; makes him ſee,</l>
+                  <l>His Sin hath ruind his Poſterity.</l>
+                  <l>Then puts he out his Eyes, as having been,</l>
+                  <l>The Viſible Contrivers of that Scene.</l>
+                  <l>At laſt he (bound in Chains) in Priſon lies;</l>
+                  <l>And (living Poor, and Blinde) there (wretched) dies.</l>
+               </lg>
+               <lg>
+                  <l>And here, I ſtopt;—</l>
+                  <l>Two Subjects more (more fit)</l>
+                  <l>Courting my Fancy; thus my Fancy writ.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zimri</hi> would be King of <hi>Iſrael:</hi>
+                  </l>
+                  <l>And ſo would <hi>Shallum</hi> too:</l>
+                  <l>Two Subjects: but, Both, Traitors:</l>
+                  <l>Both, Murderers: and Murdered:</l>
+                  <l>A wicked Pair well met; and truly matcht;</l>
+                  <l>For Fate, and Fortune, equal: ſtrangely hatcht.</l>
+               </lg>
+               <lg>
+                  <l>Each, was a King:</l>
+                  <l>In Name; but, not by Right:</l>
+                  <l>Not by Succeſſion; but, by Trechery:</l>
+                  <l>Not by Choyce; but, Uſurpation:</l>
+                  <l>Not by Conqueſt; but, Rebellion:</l>
+                  <l>They matter'd not which way;</l>
+                  <l>So the End were gotten.</l>
+               </lg>
+               <lg>
+                  <l>But,—ah how ſoon,</l>
+                  <l>Is the Head of Ambition, turn'd round?</l>
+                  <l>With what prodigious ſpeed,</l>
+                  <l>Doth the ſhort time, of their Tryumphing fly?</l>
+                  <l>A certain ſhame,</l>
+                  <l>Waits on, their fickle glory;</l>
+                  <l>And their deceitful Glaſs,</l>
+                  <l>Of falſe-reflecting-Beauty</l>
+                  <l>While 'tis but lookt upon, 'tis broken.</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:50598:7"/>
+                  <l>Though Preſumption leads the Van;</l>
+                  <l>Deſpair, brings up the Rear;</l>
+                  <l>Of all their Squadrons.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Zimri,</hi> is ſcarce ſeated in the Throne;</l>
+                  <l>But, Vengeance follows him:</l>
+                  <l>His ſeven dayes Reign, is dearly bought;</l>
+                  <l>And his End, is as dreadful, as his Treaſon.</l>
+                  <l>He ſaves the Executioner, a labour;</l>
+                  <l>And by a Strange Device,</l>
+                  <l>To put his Aſhes in a Royal Urn,</l>
+                  <l>He Fires the Pallace, and Himſelf doth burn.</l>
+               </lg>
+               <lg>
+                  <l>And was not <hi>Shallum</hi> haunted,</l>
+                  <l>With as ill Succeſs, in as high a Fortune?</l>
+                  <l>Paſt Grace, paſt Shame.</l>
+               </lg>
+               <lg>
+                  <l>He dares Heaven to defend the King:</l>
+                  <l>While he conſpires to Murder him.</l>
+               </lg>
+               <lg>
+                  <l>Not becauſe, <hi>Zachariah</hi> was as Bad, as Any;</l>
+                  <l>But becauſe, He was Above All:</l>
+                  <l>He had the Supremacy;</l>
+                  <l>And <hi>Shallum</hi> longs for't:</l>
+                  <l>And now, his Pride;</l>
+                  <l>Admits no Obſtacle,—as legal:</l>
+                  <l>The Thirſt of his Ambition,</l>
+                  <l>Muſt be quench'd with Blood;</l>
+                  <l>Not Popular; but Royal;</l>
+                  <l>Not of Any Prince; but his Own;</l>
+                  <l>Not a in Private; but a Publique way;</l>
+                  <l>Not by Others; but his Own hands:</l>
+               </lg>
+               <lg>
+                  <l>Thus, he contrives to Kill;</l>
+                  <l>And Kills, to Reign;</l>
+                  <l>And Reign, he doth;—</l>
+                  <l>A Rebel,—but no Soveraign.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:50598:8"/>
+                  <l>Yet now,—(as arrogant as the Devil)</l>
+                  <l>The Glory of the world's His:</l>
+                  <l>He won it, by the Sword;</l>
+                  <l>And by the Sword, he'le keep it.</l>
+               </lg>
+               <lg>
+                  <l>A Traitors Plea right:</l>
+                  <l>He that ſet him, to this School;</l>
+                  <l>Taught him his Leſſon well.</l>
+               </lg>
+               <lg>
+                  <l>But,—the Feet of wool, have Hands of Iron:</l>
+                  <l>God, is Slow, but Sure:</l>
+                  <l>
+                     <hi>Shallum</hi> (with a vengance) findes it;</l>
+                  <l>He findes it: but—</l>
+                  <l>Not ſo much Slow—and—Sure,</l>
+                  <l>As Sure—and—Sudden.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Shallum</hi> kill'd his Lord;</l>
+                  <l>And the Servant, kill'd <hi>Shallum.</hi>
+                  </l>
+                  <l>
+                     <hi>Zimri</hi> was deſtroyed by Himſelf:</l>
+                  <l>
+                     <hi>Shallum,</hi> by Another:</l>
+                  <l>
+                     <hi>Zimri,</hi> at a Weeks End:</l>
+                  <l>And <hi>Shallum,</hi> at a Months.</l>
+                  <l>Thus, he that Kills his Prince, to wear his Crown;</l>
+                  <l>To warm his Fingers, burns a Pallace down:</l>
+                  <l>Deludes, deſtroyes himſelf; and while he venters,</l>
+                  <l>To round, a ſeeming Heaven; Hell, concenters.</l>
+               </lg>
+               <lg>
+                  <l>Villain forbear: do'nt ſuck thy Princes Blood:</l>
+                  <l>Forbidden meat, is no fit meat for Food.</l>
+               </lg>
+               <p>And here (notwithſtanding the time I had ſpent; and model, I had made; and had (as in a manner) laid the Scene, upon theſe Perſons, and this Peece, of thus revenged Treaſon: yet,) my minde was farther preſt, to take another, and to begin a new.</p>
+               <lg>
+                  <l>At laſt, the Needle left her trembling Round:</l>
+                  <l>And my Magnetick Fancy, fixt I found.</l>
+                  <l>
+                     <pb n="7" facs="tcp:50598:8"/>I found my Subject: and when All is done,</l>
+                  <l>My Subject's <hi>Jeroboam, Nebat</hi>'s Sonne.</l>
+               </lg>
+               <p>Jeroboam</p>
+               <p>Whoſe Hope, though (at the laſt) it was deceived; and his Policy, defeated; and his Pride, debaſed; and his Perſon, deſtroyed; (for,</p>
+               <p>The Lord ſtrook him, and he died.) Yet, this Cataſtrophe,— Of That <hi>Ominous Politician:</hi>
+               </p>
+               <p>Was (for many years) as really Improbable; as was, the Settlement of <hi>Abijah,</hi> ſeemingly Impoſſible.—</p>
+               <p>But ſtay, This ruder Peece, is dedicated to the pub<g ref="char:EOLhyphen"/>lick view; and the contingency of cenſure: I will (therefore) no longer detain you, from your Places; nor anticipate your fancy.</p>
+               <p>My good wiſhes, wait upon your favour; and the better Omen of the Maſque, upon your Perſons, and your Fortunes.</p>
+               <p>So we All aroſe, and went into the Theater; where (we being Sate) four Trumpeters did enter; and having ſounded a <hi>Victoria,</hi> a Levite preſents him<g ref="char:EOLhyphen"/>ſelf, and ſpeaks—</p>
+               <div type="argument">
+                  <head>The Argument.</head>
+                  <p>In the dayes of <hi>Rehoboam</hi> (the Son of <hi>Solomon</hi>)<note place="margin">1 King. 11. 26.</note> did <hi>Jeroboam</hi> (the Son of <hi>Nebat</hi>) rebel againſt his King.</p>
+                  <p>In which Rebellion, when he had continued<note place="margin">1 King, 12. 19. 2 Chron. 13 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> eighteen years: then began <hi>Abijah</hi> (the Son of <hi>Reho<g ref="char:EOLhyphen"/>boam</hi>) to reign over <hi>Juda.</hi>
+                  </p>
+                  <p>
+                     <pb n="8" facs="tcp:50598:9"/>In the third year of whoſe Reign, he waged war;<note place="margin">Ver. 2.</note> and ſet the Battel in Aray, againſt <hi>Jeroboam:</hi> who, when he had plaid <hi>Rex,</hi> ſo long a time, as two and<note place="margin">1 King. 14. 20.</note> twenty years: and had an Army, ſo Great, as of Eight hundred Thouſand, choſen men, being mighty<note place="margin">2 Chron. 13. 3.</note> men of Valour: yet then, even then; was the Lord pleaſed, to make his Arm, bare; his Juſtice, known; the Truth, prevalent; and his Name, glo<g ref="char:EOLhyphen"/>rious.</p>
+                  <p>For, this ſo ſucceſsful Treaſon, this numerous Army, and unhappily-happy-Traitor; were, in their beſt Condition; and their greateſt Confidence, to<g ref="char:EOLhyphen"/>tally<note place="margin">2 Chron. 13. 13. 15. 16. 17. 19. 20.</note> ſubdued, and fearfully overthrown; five hun<g ref="char:EOLhyphen"/>dred thouſand of them ſlain: their General enforc't to fly; and (as a Warning to all Rebels) exem<g ref="char:EOLhyphen"/>plarily ſtruck dead by the Hand of the Lord.</p>
+                  <p>In a grateful Commemoration, of which Signal Victory; and in an holy Preomination of the years ſucceeding, Fortunate, to the Truth and Loyalty; was, this new-myſterious Maſque firſt made;—wherein—</p>
+                  <lg>
+                     <l>
+                        <hi>Abijah,</hi> and King's Cauſe;</l>
+                     <l>
+                        <hi>Jeroboam,</hi> and the Rebels;</l>
+                  </lg>
+                  <p>(With the juſtice, and ſucceſs, of Both) are timouſly made obvious; to The Comfort, and Encouragement, Of All Loyal Subjects.</p>
+                  <p>
+                     <hi>I my ſelf</hi> (ſaith the Royal Prophet) <hi>have ſeen</hi>
+                     <note place="margin">Pſal. 37. 36, 37.</note> 
+                     <hi>the Ungodly in great power, and flouriſhing like a green Bay Tree:</hi>
+                  </p>
+                  <p>
+                     <pb n="9" facs="tcp:50598:9"/>
+                     <hi>And I went by, and lo, he was gone; I ſought him, but his Place could no where be found.</hi>
+                  </p>
+                  <p>
+                     <hi>An Unwiſe man</hi> (ſaith the ſame Author) <hi>doth not</hi>
+                     <note place="margin">Pſal. 92. 6, 7.</note> 
+                     <hi>well conſider This; and a fool doth not underſtand it.</hi>
+                  </p>
+                  <p>
+                     <hi>When the Ungodly are green, as the Graſs; and when all the workers of wickedneſs, do flouriſh; then ſhall they be Deſtroyed for ever.</hi>
+                  </p>
+                  <p>For (ſaith <hi>Ignatius</hi> Martyr) <hi>Nemo qui ſe contra</hi>
+                     <note place="margin">Epiſ. 3.</note> 
+                     <hi>Praeſtantiorem extulit; impunitus unquam abiit.</hi>
+                  </p>
+                  <p>
+                     <hi>With that (he going off the Stage) a young Prince Enters; wearing a Purple Robe, and his head, Crown'd: in the one hand, holding an Olive branch; in the other, a Palm; and ſpeaks</hi>—</p>
+               </div>
+               <div type="prologue">
+                  <head>The Prologue.</head>
+                  <lg>
+                     <l>What means this Dreſs,<note place="margin">He walks ſtately; and looks upon himſelf.</note>
+                     </l>
+                     <l>And to what purpoſe, thus;</l>
+                     <l>Am I Attir'd?</l>
+                     <l>The manners ominous;</l>
+                     <l>A true Praeſage, of ſtrange Events; to come,</l>
+                     <l>On After Ages; by a Preſent Doome.</l>
+                  </lg>
+                  <lg>
+                     <l>What means this Place,</l>
+                     <l>What Perſons do I ſee?</l>
+                     <l>I ſee, great Perſons; and their Places, be,</l>
+                     <l>Upon <hi>Seſoſtris</hi> wheele:</l>
+                     <l>My Soveraign's Crown,</l>
+                     <l>In's Grand-child's time's uſurpt; and Rebels own.</l>
+                  </lg>
+                  <lg>
+                     <l>I ſee again,</l>
+                     <l>By Scripture, and by Reaſon;</l>
+                     <l>An End, both Sad, and ſure; attends on Treaſon:</l>
+                     <l>His Sin is Fatal, who his Fall laments not;</l>
+                     <l>His Fall, is Final; who his Sin repents not.</l>
+                     <l>
+                        <pb n="10" facs="tcp:50598:10"/>Traitors, as Witches are;</l>
+                     <l>And Witches never,</l>
+                     <l>Become Converted, but Condemned ever.</l>
+                  </lg>
+                  <lg>
+                     <l>When Loyal Subjects,</l>
+                     <l>(Howſoere they Fare)</l>
+                     <l>As Bleſſed Angels (Angels bleſſed) are.</l>
+                     <l>Their hope—and—love eſpouſe,</l>
+                     <l>And faith doth ty,</l>
+                     <l>Their true Allegiance, faſt, to Soveraignty.</l>
+                     <l>'Tis not the Tempeſt of the rougheſt Croſſes,</l>
+                     <l>Can ſhipwrack their Obedience, with their Loſſes.</l>
+                     <l>It's ſo obſerv'd:</l>
+                     <l>And <hi>Pſyche</hi> (by the way)</l>
+                     <l>Is Staid, and Pray'd, their Banner to diſplay;</l>
+                     <l>And here it's done, in a Triumphant Story;</l>
+                     <l>Which flouts, and routs, all traitors ſhameful-glory.</l>
+                  </lg>
+                  <lg>
+                     <l>This is the Subject, of the Sequel Maſque;</l>
+                     <l>Which <hi>Pſyche</hi> now, makes Mine; and I, your Task:</l>
+                     <l>I, to reſume; and You, for to revolve;</l>
+                     <l>And Each, by Application, to reſolve;</l>
+                     <l>That this Sad-Sacred-pleaſing-Scene, is laid;</l>
+                     <l>To make the Good, rejoyce; the Bad, afraid.</l>
+                     <l>But hark—</l>
+                     <l>The Muſick ſounds;</l>
+                     <l>To my preventing:</l>
+                     <l>May All, have Mirth: and <hi>Pſyche</hi>—</l>
+                     <l>True contenting.</l>
+                  </lg>
+                  <stage>Exit.</stage>
+               </div>
+            </div>
+            <div n="1" type="show">
+               <pb n="11" facs="tcp:50598:10"/>
+               <head>The loud Muſique ſounds And The Firſt Shew's Preſented Being</head>
+               <p>A Landskip in form of a Square; having in the one Angle, a Promontory; whereon the rural Nymphs were ſporting, and under it, the Sea; wherein, was a gallant Navy ſayling.</p>
+               <p>In another Angle, was a Garden; giving all the de<g ref="char:EOLhyphen"/>light that dainty flowers; pleaſant walks; and Muſical water-works could yeild.</p>
+               <p>In the Third Angle, was a Caſtle, ſtrongly, and bravely fortified; in the face whereof, was an Army compleatly Armed, marching in Aray.</p>
+               <p>In the fourth Angle, was a Park; well-wooded, and ſtor'd with Deer: Gallants a hunting, and the Hounds upon a full Cry.</p>
+               <p>In the middle of this Quadrangle, was a Grove of Cedars; out of which came a Shepherdeſs, in a green Gown, and a Garland on her Head; attended by a Swain, in a Shepherds Coat, and a Pipe in his Hand: Each then, ſaluting other; the One Playes; and Both, Dance: which done—they pull off their Diſguiſes, and diſcover themſelves, to be, an Angel, and <hi>Pſyche: Pſyche</hi> then (inſtructed by the Angel) making an hum<g ref="char:EOLhyphen"/>ble Addreſs, and due Obſervance to <hi>R. A.</hi> the King. Kneels down, and Speaks.</p>
+               <div n="1" type="speech">
+                  <head>The firſt Speech.</head>
+                  <lg>
+                     <l>Dread Sir—I crave your Pardon;</l>
+                     <l>Which, if You,</l>
+                     <l>
+                        <pb n="12" facs="tcp:50598:11"/>Shall pleaſe to grant;</l>
+                     <l>I crave your Patience too,</l>
+                     <l>Which, if you promiſe;</l>
+                     <l>Then I crave your Ear;</l>
+                     <l>Which, if you deign;</l>
+                     <l>Then, let your Highneſs hear.</l>
+                  </lg>
+                  <lg>
+                     <l>What was that Heathen, that he ſhould out-brave,<note place="margin">Galiah.</note>
+                     </l>
+                     <l>God's Cauſe, and Army, and a Challenge crave?</l>
+                     <l>Or, what's this Traitor, that the Gauntlet throwes,</l>
+                     <l>In ſcorn of God, and doth the King oppoſe?<note place="margin">Jeroboam.</note>
+                     </l>
+                     <l>At length,—<note place="margin">Abijah.</note>
+                     </l>
+                     <l>A Youth, but with a Stone and Sling;<note place="margin">David.</note>
+                     </l>
+                     <l>Anſwer'd, and Conquer'd, that fell Phyliſtine.</l>
+                     <l>And ſo, ere long,</l>
+                     <l>As mean a Meanes, may Be,</l>
+                     <l>The Scenes to Act this Villaines Tragedie.</l>
+                     <l>Believe it' King <hi>Abijah,</hi>
+                     </l>
+                     <l>You ſhall find;</l>
+                     <l>The fall of <hi>Jeroboam</hi> is deſign'd.</l>
+                     <l>Not from that Giant; but, this Rebell;</l>
+                     <l>I——</l>
+                     <l>Foreſee the Sequel, by Imparitie:</l>
+                     <l>For, True that Monſter was;</l>
+                     <l>And his Strange Pride,</l>
+                     <l>Did Vaunt but's Valour, to advance his Side.</l>
+                  </lg>
+                  <lg>
+                     <l>But This,</l>
+                     <l>—Was monſtrous Falſe:</l>
+                     <l>And's frantick Zeal,</l>
+                     <l>To turn a Kingdom, to a Common-weal;</l>
+                     <l>Prayes, and Betrayes;</l>
+                     <l>Swears, and Forſwears; to further,</l>
+                     <l>—The King in's Throne:</l>
+                     <l>—The King at's Gate, to Murder.</l>
+                     <l>
+                        <pb n="13" facs="tcp:50598:11"/>
+                        <hi>Corah</hi>'s was nothing, if compar'd to This;</l>
+                     <l>—This perjur'd Changling's Metamorphoſis:</l>
+                     <l>The Way, was worſe;</l>
+                     <l>And may a worſer Fate,</l>
+                     <l>Then <hi>Corah</hi>'s, or <hi>Goliah</hi>'s;</l>
+                     <l>Antedate—the Transformation:</l>
+                     <l>Prodigious Stars, portend his Fall;</l>
+                     <l>By Famine, Plague, or Wars.</l>
+                  </lg>
+                  <lg>
+                     <l>May Loyalty, be bleſt:</l>
+                     <l>Your Highneſs, Crownd:</l>
+                     <l>And God, Convert; or elſe your Foes Confound.</l>
+                     <l>May you obtrude Intruders, from the Keyes;</l>
+                     <l>And keep them Sacred to Divine Decrees.</l>
+                     <l>May <hi>Aarons</hi> Rod ſtill flouriſh: and You be,</l>
+                     <l>A Nurſing Father, both to It, and Me.</l>
+                     <l>Still may the Lord, your Majeſty defend;</l>
+                     <l>And Peace, or Patience, to your Subjects ſend.</l>
+                     <l>Long may you live,—</l>
+                     <l>And live ſo long, to Reign;</l>
+                     <l>Till Treaſon be Reveng'd, and Traitors ſlain.</l>
+                  </lg>
+                  <lg>
+                     <l>This, This I ask,—</l>
+                     <l>Which granted, I'le give ore:</l>
+                     <l>And Bleſs my God, and You;—</l>
+                     <l>And ask no more.</l>
+                  </lg>
+                  <p>
+                     <hi>The King then drew off his Glove, and (holding out his hand</hi>) Pſyche <hi>roſe up; and (kneeling down again) ſhe kiſs'd it.</hi>
+                  </p>
+                  <p>
+                     <hi>The Queen then (obſerving</hi> Pſyche, <hi>to have a cu<g ref="char:EOLhyphen"/>rious Voyce) deſired her to Sing: and (without denial, or reply) her good Angel ſtanding by her, playing on a Lute, ſhe ſung</hi>—</p>
+               </div>
+               <div n="1" type="song">
+                  <pb n="14" facs="tcp:50598:12"/>
+                  <head>The firſt Song.</head>
+                  <lg>
+                     <head>1.</head>
+                     <l>No more, no more, to ask,</l>
+                     <l>Of God, and King,</l>
+                     <l>Too ſad's a Task,</l>
+                     <l>In this glad Maſque;</l>
+                     <l>To undertake, and ſing.</l>
+                  </lg>
+                  <lg>
+                     <head>2.</head>
+                     <l>But, ſince my Loyal tongue;</l>
+                     <l>Hath Royal greeting;</l>
+                     <l>'Twere double wrong,</l>
+                     <l>A ſingle Song,</l>
+                     <l>For to deny this Meeting.</l>
+                  </lg>
+                  <lg>
+                     <head>3.</head>
+                     <l>Angels, and Men, ſhall know;</l>
+                     <l>And All, hold forth;</l>
+                     <l>The Zeal I ow,</l>
+                     <l>And love I ſhow,</l>
+                     <l>Unto my Princes worth.</l>
+                  </lg>
+                  <lg>
+                     <head>4.</head>
+                     <l>And now, in grateful-wiſe,</l>
+                     <l>I'le kneel agen;<note place="margin">She kneels.</note>
+                     </l>
+                     <l>To Sympathize,</l>
+                     <l>The Peoples Cryes,</l>
+                     <l>God ſave the King. <hi>Amen.</hi>
+                     </l>
+                  </lg>
+                  <p>
+                     <hi>With that (an Acclamation being made) the Scene, upon a ſuddain, chang'd; and then (the loud Muſique ſounding a ſecond time.</hi>)</p>
+               </div>
+            </div>
+            <div n="2" type="show">
+               <pb n="15" facs="tcp:50598:12"/>
+               <head>The Second Shew's preſented being</head>
+               <p>A pleaſant Plain, encompaſſed with Hills: in the middle of which Plain, was a fair City; and in the City a glorious Temple; and in the Temple, a goodly<note place="margin">Jeruſalem. <hi>King</hi> David.</note> Perſon: Which Perſon (having on, a Robe of fine lin<g ref="char:EOLhyphen"/>nen; and a curious Ephod upon the Robe; and a golden Girdle upon the Ephod) walketh into the <hi>Sanctum San<g ref="char:EOLhyphen"/>ctorum,</hi> with the Book of the Law, in his hand, and thus ſpeaks—</p>
+               <div n="2" type="speech">
+                  <head>The Second Speech.</head>
+                  <lg>
+                     <l>In this <hi>Aſytum</hi>—</l>
+                     <l>Doth (for certain) dwell,</l>
+                     <l>God, and my Devotions Oracle.</l>
+                     <l>Hence am I Taught;</l>
+                     <l>And Here I am; to know;</l>
+                     <l>The Reaſon why, the wicked Proſper ſo?</l>
+                  </lg>
+                  <lg>
+                     <l>I know, the Lord is Juſt:</l>
+                     <l>But yet,—his wayes,</l>
+                     <l>Seem very ſtrange, and many doubtings raiſe.</l>
+                     <l>For,—he fulfils the wicked man's requeſt;</l>
+                     <l>And more then's Vote, doth correſpond his Breſt.</l>
+                     <l>He fears not Death:</l>
+                     <l>Nor doth his Body feel,</l>
+                     <l>The darts of Sickneſs, or the Sword of Steel.</l>
+                     <l>His Arm is brawny;</l>
+                     <l>And his Army's ſtout;</l>
+                     <l>And bravely Valiant, when he Marches out.</l>
+                     <l>They—deck themſelves with Pride, as with a chain,</l>
+                     <l>And as a Garment, ſo they wear Diſdain.</l>
+                     <l>
+                        <pb n="16" facs="tcp:50598:13"/>They Drink: they Drab:</l>
+                     <l>And live licentious Lives:</l>
+                     <l>They mock at God:</l>
+                     <l>And yet—their Doing thrives.</l>
+                  </lg>
+                  <lg>
+                     <l>They kill—their King:</l>
+                     <l>Their Brethren, they Enſlave:</l>
+                     <l>They Rob, and Spoil: and no Religion have.</l>
+                  </lg>
+                  <lg>
+                     <l>As Beaſts of Prey, they have devouring Paws:</l>
+                     <l>As bloody Tyrants, they have broke all Laws:</l>
+                     <l>The Laws of God:</l>
+                     <l>Of Nature:</l>
+                     <l>And the Land:</l>
+                     <l>And Crown'd their Treaſon, with Supreme Com<g ref="char:EOLhyphen"/>mand.</l>
+                     <l>Yet—God's not mov'd:</l>
+                     <l>Except, it be to Bleſs;</l>
+                     <l>Such Ill Proceedings, with a good Succeſs.</l>
+                     <l>At night,</l>
+                     <l>He guards them, in their ſafe Repoſes;</l>
+                     <l>And when 'tis Day,</l>
+                     <l>He trims their Heads with Roſes.</l>
+                  </lg>
+                  <lg>
+                     <l>This,—makes them bragg;</l>
+                     <l>Their Cauſe, is moſt Divine:</l>
+                     <l>And Stately Fortune, makes their Cauſe to Shine.</l>
+                  </lg>
+                  <lg>
+                     <l>This,—makes Me grieve;</l>
+                     <l>For This, I come, to know;</l>
+                     <l>The Reaſon why, the wicked Proſper ſo?</l>
+                  </lg>
+                  <lg>
+                     <l>With that,</l>
+                     <l>Aſoft-ſmall-voyce, deep ſilence brake;</l>
+                     <l>And thus,</l>
+                     <l>This Anſwer, to the Queſtion ſpake.</l>
+                  </lg>
+                  <div type="oracle">
+                     <pb n="17" facs="tcp:50598:13"/>
+                     <head>The Oracle.</head>
+                     <lg>
+                        <l>Let God be true, and every man a Lyar:</l>
+                        <l>The Bramble-buſh, is but (at beſt) a Bryar;</l>
+                        <l>It cannot be a Cedar.</l>
+                     </lg>
+                     <lg>
+                        <l>The wicked may,</l>
+                        <l>Walk in the <hi>broader;</hi> but, not <hi>ſafer</hi> way.</l>
+                        <l>To ſtand upon a Pinacle in pride;</l>
+                        <l>Is very vain, and perilous beſide.</l>
+                        <l>The more the wicked have; the more's their ſcore;</l>
+                        <l>Upon the <hi>Audit-Book</hi> to reckon for.</l>
+                        <l>They are the leſs excus'd, in having thus,</l>
+                        <l>All as they would, exceeding proſperous.</l>
+                        <l>Their proſperous State, is as a Chance that's caſt;</l>
+                        <l>And lucky Chances, do not alwayes laſt.</l>
+                        <l>Their only Portion, on the Earth is given;</l>
+                        <l>Excluded ever, from a part in Heaven.</l>
+                        <l>They are the <hi>Rods</hi> of God; and when his turn</l>
+                        <l>Is ſerv'd upon his Children, he will burn.</l>
+                        <l>Their ſeeming Chryſtall is but reall Ice;</l>
+                        <l>They ſlide, and fall, and periſh in a trice.</l>
+                        <l>Their former Honour ſhall be quite forgot;</l>
+                        <l>And <hi>Jeroboam,</hi> with his fame, ſhall rot.</l>
+                        <l>He and all Rebells do ride poſt to Hell;</l>
+                        <l>And this for Truth the Oracle doth tell.</l>
+                        <l>Then—let thy Faith, and Hope, and Love, be firm;</l>
+                        <l>(Whoere's aboard, it's God that ſits at th'Stern.</l>
+                        <l>He will thee guide with Councell;</l>
+                        <l>If thou lov'ſt him:</l>
+                        <l>And never fail thee,</l>
+                        <l>Whenſoere thou prov'ſt him.</l>
+                        <l>
+                           <pb n="18" facs="tcp:50598:14"/>Continue conſtant in thy fervent praying;</l>
+                        <l>Hee'l Crown thy Expectation—</l>
+                        <l>And my ſaying.</l>
+                     </lg>
+                     <lg>
+                        <l>Then was a noyſe of chearfull Muſique heard,</l>
+                        <l>And ſights of Joy (and Angels ſeen) appear'd;</l>
+                        <l>And therewithall—</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <div n="3" type="show">
+               <head>The Third Shew's preſented, being</head>
+               <p>A ſtately Pallace, wherein, was a Room of Ala<g ref="char:EOLhyphen"/>blaſter (hang'd with Cloth of Gold, richly and curiouſly Embroydered, with the lively, and Emboſs'd Imagery of <hi>David</hi> and <hi>Solomon;</hi> with the Hiſto<g ref="char:EOLhyphen"/>ry of both: in the Hangings, were ſeverall Rowes of Jewels; whoſe Luſtre was irradiant; and as ſo many Starres enlightened all the Room) where<g ref="char:EOLhyphen"/>into (attended by Fifty Perſons, all cloth'd alike, in Coats of Crimſon Velvet, with green Sattin ſleeves; their Stockings green Silk; with Garters and Roſes, of Gold and Crimſon) came—</p>
+               <lg>
+                  <l>The King of <hi>Judah,</hi>
+                  </l>
+                  <l>The Queen his Mother,</l>
+                  <l>Two Dukes, his Brothers,</l>
+                  <l>The High-Priest,</l>
+                  <l>The <hi>Levites,</hi>
+                  </l>
+                  <l>The Generall of the Army,</l>
+                  <l>And the Captain of the Guard.</l>
+               </lg>
+               <p>The King, Queen, and Princes, ſate in their Chairs of State: All the reſt at a diſtance ſate bare-headed.</p>
+               <p>
+                  <pb n="19" facs="tcp:50598:14"/>Then the King (lifting up his Eyes and Hands to Heaven) ſmote upon his Breaſt; and thus his minde expreſs'd—in—</p>
+               <div n="3" type="speech">
+                  <head>The Third Speech.</head>
+                  <lg>
+                     <l>It makes us ſport, to play with Eaſie Cares;</l>
+                     <l>When, Heavier, make us Dumb.</l>
+                     <l>The Greater Fears,</l>
+                     <l>Put <hi>Speech</hi> it ſelf to ſilence; and the Ears,</l>
+                     <l>To hear no Language but the Voyce of Tears.</l>
+                     <l>Yet I—</l>
+                     <l>Th'unhappy Grand-Sonne of that <hi>King;</hi>
+                     </l>
+                     <l>Whoſe Wealth, and Wiſedome;</l>
+                     <l>
+                        <hi>Power,</hi> and <hi>Peace;</hi> do ring,</l>
+                     <l>With Everlaſting Fame:</l>
+                     <l>I——I am <hi>Hee</hi>—</l>
+                     <l>Muſt hear ſuch Fame blaſphem'd by Obloquie:</l>
+                  </lg>
+                  <lg>
+                     <l>Muſt Hear't, and doe;</l>
+                     <l>And Speak on't too.</l>
+                  </lg>
+                  <q>Was ever Grief like mine?</q>
+                  <lg>
+                     <l>I am the Object, wrongfully diſplac'd:</l>
+                     <l>Of Honour ſham'd: and <hi>Majeſty</hi> debas'd:</l>
+                     <l>Of Favour, much deſpis'd: of <hi>Power,</hi> made weak:</l>
+                     <l>Of <hi>SaC Red Peace,</hi> made <hi>Civil Peace</hi> to break.</l>
+                  </lg>
+                  <q>Was ever Caſe like mine?</q>
+                  <lg>
+                     <l>My Kingdome's Raviſht:</l>
+                     <l>Aud my Virgin Throne,</l>
+                     <l>Baſely's Deflowr'd by Rebellion:</l>
+                     <l>My Royall Robe is rent:</l>
+                     <l>My Scepter, broke:</l>
+                     <l>My Crown, is fallen:</l>
+                     <l>And the Loyall Yoak,</l>
+                     <l>
+                        <pb n="20" facs="tcp:50598:15"/>Of Legall Tribute (to my greater croſſe)</l>
+                     <l>With ſcorn, is torn, to my greateſt loſſe.</l>
+                  </lg>
+                  <q>Was ever wrong like mine?</q>
+                  <lg>
+                     <l>The Traytors fury is without reſpect,</l>
+                     <l>Of Perſons, and of Duty:</l>
+                     <l>Their neglect—</l>
+                     <l>Doth know no Bounds:</l>
+                     <l>They will doe, as they ſay;</l>
+                     <l>Their Will's their Law; and with their Swords they ſway.</l>
+                  </lg>
+                  <q>Were ever Foes like mine?</q>
+                  <lg>
+                     <l>Theſe—</l>
+                     <l>With their <hi>Old Projector</hi> (to our woe)</l>
+                     <l>Have caus'd our grief, and grievous overthrow:</l>
+                     <l>
+                        <hi>Theſe</hi>—</l>
+                     <l>Fought to kill—my Father:</l>
+                     <l>And can I—</l>
+                     <l>Expect good Quarter, from ſuch Soldiery?</l>
+                     <l>Alas! they are in human;</l>
+                     <l>And no means,</l>
+                     <l>Of Princely Favour;</l>
+                     <l>Shining from the Beams,</l>
+                     <l>Of Majeſty it ſelf;</l>
+                     <l>Can make them know,</l>
+                     <l>Or once acknowledge,</l>
+                     <l>They ſubjection owe,</l>
+                     <l>To any, but the ſtronger:</l>
+                     <l>Theſe be <hi>they</hi>—</l>
+                     <l>Whom ſelf-advantage turns any way:</l>
+                  </lg>
+                  <q>Were ever Foes like mine?</q>
+                  <lg>
+                     <l>And ſuch as, theſe;—</l>
+                     <l>Or rather juſt the ſame;</l>
+                     <l>Were ſome that fled, and to our Party came;</l>
+                     <l>
+                        <pb n="21" facs="tcp:50598:15"/>Came,—but, as Spies;</l>
+                     <l>And ſo it prov'd at length;</l>
+                     <l>We loſt their <hi>duty</hi> when we loſt our <hi>ſtrength:</hi>
+                     </l>
+                  </lg>
+                  <q>Were ever Friends like mine?</q>
+                  <lg>
+                     <l>This,—</l>
+                     <l>In my Fathers Reign was ſadly—true;</l>
+                     <l>And what can I againſt ſo falſe a Crue?</l>
+                     <l>They have diſclaim'd my Right:</l>
+                     <l>And few, or none;</l>
+                     <l>But only God's my Conſolation.</l>
+                  </lg>
+                  <lg>
+                     <l>I am by <hi>SaCRed</hi> and by <hi>Civill</hi> claim;</l>
+                     <l>To all the <hi>Tribes,</hi> the Lawfull <hi>Soveraign:</hi>
+                     </l>
+                     <l>Yet I—their <hi>KING</hi>—</l>
+                     <l>Muſt ſee my Right, made Voyd;</l>
+                     <l>And all Allegiance to my <hi>Crown</hi> deſtroy'd:</l>
+                  </lg>
+                  <q>Was ever Realm like mine?</q>
+                  <lg>
+                     <l>What ſhall I ſay?</l>
+                     <l>I am an <hi>Exile</hi> driven,</l>
+                     <l>To Forrein parts,—</l>
+                     <l>And of my Home bereaven.</l>
+                     <l>What ſhall I doe?</l>
+                     <l>—Alas, wherere I goe;</l>
+                  </lg>
+                  <lg>
+                     <l>My Life's in danger by a cruel Foe:</l>
+                     <l>I know not whom to truſt:</l>
+                     <l>And all my care,</l>
+                     <l>Is,—how my <hi>Subjects</hi> in my Fate will fare.</l>
+                     <l>Ah me—forſaken—and—forlorn!</l>
+                     <l>Nor Realm, nor Wrongs,</l>
+                     <l>Nor Caſe, nor Grief,</l>
+                     <l>Nor Foes, nor Friends:</l>
+                  </lg>
+                  <q>Were ever like to mine.</q>
+                  <lg>
+                     <l>
+                        <pb n="22" facs="tcp:50598:16"/>With that he ſigh'd; and ceas'd.</l>
+                     <l>And then begun,</l>
+                     <l>The Mother Queen;</l>
+                     <l>And thus beſpake her Son, in</l>
+                  </lg>
+               </div>
+               <div n="4" type="speech">
+                  <head>The Fourth Speech.</head>
+                  <lg>
+                     <l>My deareſt Son, and Soveraign;</l>
+                     <l>Hear I pray—</l>
+                     <l>A Mothers Counſell, and her words obey.</l>
+                  </lg>
+                  <lg>
+                     <l>It's true—</l>
+                     <l>Your Caſe, ſo ſad; and Grief, ſo deep;</l>
+                     <l>O'reflowes the tears of Mourners (hir'd to weep)</l>
+                     <l>Your Verball Friends, but Reall Foes in Deeds;</l>
+                     <l>The deepeſt Grief, and ſaddeſt Caſe exceeds.</l>
+                  </lg>
+                  <lg>
+                     <l>Your Realm's in Common—</l>
+                     <l>And in Chief, your wrong;</l>
+                     <l>Outvyes the Cryes of <hi>Hadadrimmons</hi> tongue.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet—</l>
+                     <l>May'nt baſe Fear, your Noble heart ſurprize;</l>
+                     <l>For, we do'nt know, nor may, the myſteries,</l>
+                     <l>Of God's permiſſive <hi>Providence:</hi>—Oh no;</l>
+                     <l>His winding Feet, upon the Waters goe:</l>
+                     <l>There is no Tract, nor Line, nor Rule, whereby,</l>
+                     <l>His <hi>Paths</hi> to finde; or <hi>Footſteps</hi> to deſcry.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet—</l>
+                     <l>In an hopefull wonder, ſee 'tis Day,</l>
+                     <l>Although the Sun's Eclips'd,</l>
+                     <l>His Lightſome Ray,</l>
+                     <l>Will pierce, ere long, the darkeſt Clouds.</l>
+                  </lg>
+                  <lg>
+                     <l>Your Crown—</l>
+                     <l>And Throne, and Scepter, may be hurled down:</l>
+                     <l>
+                        <pb n="23" facs="tcp:50598:16"/>Your Forces, beaten:</l>
+                     <l>And your Self, made flie,</l>
+                     <l>With dreadfull ſpeed for your ſecurity:</l>
+                     <l>In outward ſhew, paſt Help:</l>
+                     <l>Admit—yet then,</l>
+                     <l>The Lord of Hoſts, can Rally up agen.</l>
+                     <l>By Him, Kings Reign:</l>
+                     <l>And upon whom, he pleaſe;</l>
+                     <l>He Crowns the Iſſues of his cloſe Decrees.</l>
+                  </lg>
+                  <lg>
+                     <l>His Preſcience, is a Secret;</l>
+                     <l>And we muſt,</l>
+                     <l>Submit (in Duty) to His Will;</l>
+                     <l>And truſt his Word Reveal'd:</l>
+                  </lg>
+                  <lg>
+                     <l>For why? we cannot tell,</l>
+                     <l>How ſoon the <hi>Traitor</hi> ſhall be dragg'd to Hell.</l>
+                  </lg>
+                  <lg>
+                     <l>God hath his <hi>Time:</hi>
+                     </l>
+                     <l>Then uſe what means you can;</l>
+                     <l>To Repoſſeſſe your Rights;</l>
+                     <l>'Tis God not Man;</l>
+                     <l>By many, or by few, the Conqueſt gives;</l>
+                     <l>Before the <hi>Traitor</hi> his Reproach outlives.</l>
+                  </lg>
+                  <lg>
+                     <l>Serve God, in truth:</l>
+                     <l>And when his <hi>Time</hi> is come,</l>
+                     <l>He can advance you to a <hi>Peacefull Throne.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>He is the ſame, he was:</l>
+                     <l>In Mercy ſtill, moſt infinite;</l>
+                     <l>If't be his Holy Will,</l>
+                     <l>He can, and may Enthrone you;—howſoere,</l>
+                     <l>Let not your Hope, be overcome by Fear.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>No</hi> (ſaith the Duke) and (with a pretty ſmile)</l>
+                     <l>Thus Courts the King, his Brother:—in</l>
+                  </lg>
+               </div>
+               <div n="5" type="speech">
+                  <pb n="24" facs="tcp:50598:17"/>
+                  <head>The Fifth Speech.</head>
+                  <lg>
+                     <l>Wee—</l>
+                     <l>(For conſolation met)</l>
+                     <l>Are, in Conſultation ſet,</l>
+                     <l>That comfort, and aſſiſtance might,</l>
+                     <l>Be given for your Native Right:</l>
+                     <l>And (lo) an Angel doth appear,</l>
+                     <l>Which puts us in a Hopefull—fear.</l>
+                  </lg>
+                  <p>A bright Cloud is ſeen, and an Angel in the Cloud: his face ſhining like the Sun: and armed like a man of War, and having in the one hand a Golden Crown; in the other, a Flaming Sword; he brandiſhes the Sword, then ſets the Crown upon the Kings head, and ſo vaniſhes, being</p>
+               </div>
+            </div>
+            <div n="4" type="show">
+               <head>The Fourth Shew.</head>
+               <p>Whereupon the Prince proceeds; and ſayes,</p>
+               <lg>
+                  <l>See, ſee,—</l>
+                  <l>A Viſion doth foretell,</l>
+                  <l>The Rebels woe, my Soveraigns weal.</l>
+                  <l>Not he, that girds his Harneſſe on;</l>
+                  <l>But, puts it off; the Field hath won.</l>
+                  <l>The men of <hi>Al</hi> prevail'd at firſt,</l>
+                  <l>And forc'd Gods Forces to the worſt:</l>
+                  <l>While <hi>Achan</hi> plunder'd, there could be;</l>
+                  <l>No hope, of any Victory:</l>
+                  <l>But found, and puniſht; God returns:</l>
+                  <l>Defeats the Foe: the City Burns:</l>
+               </lg>
+               <lg>
+                  <pb n="25" facs="tcp:50598:17"/>
+                  <l>God's Cauſe, and Captain, did (at laſt) prevail;</l>
+                  <l>And ſo ſhall ever, though a while they fail.</l>
+                  <l>Ah Sir! I know, we have Offended:</l>
+                  <l>And what's Amiſs, muſt be Amended:</l>
+                  <l>Some Perſon, or ſome Thing, there is;</l>
+                  <l>God Plagues, with ſuch Calamities.</l>
+                  <l>Let's ſearch, and try our wayes; and then,</l>
+                  <l>God will lead In, and Out, your Men:</l>
+                  <l>Your Cauſe, is Good; and in the End,</l>
+                  <l>The Viſion doth your Good portend:</l>
+               </lg>
+               <lg>
+                  <l>Cheer up (dear Sir) and truſt the King of Kings,</l>
+                  <l>You ſhall prevail, and do the higheſt things.</l>
+                  <l>Yea, ſaid the other Duke, in—</l>
+               </lg>
+               <div n="6" type="speech">
+                  <head>The Sixt Speech.</head>
+                  <lg>
+                     <l>———And ſo You ſhall,</l>
+                     <l>Riſe moſt Tryumphant, from your loweſt Fall.</l>
+                     <l>You ſhall—</l>
+                     <l>For, God Rewards; and wil, ere long;</l>
+                     <l>The bloody Actors, of a Princes wrong.</l>
+                  </lg>
+                  <lg>
+                     <l>We finde the end, of <hi>Shimei;</hi> who Revil'd</l>
+                     <l>His Soveraign Lord; And Traiterouſly Stil'd,</l>
+                     <l>The King; a man of <hi>Belial:</hi> though the ſame,</l>
+                     <l>He did Confeſs; and for his Pardon came,</l>
+                     <l>With all Submiſſion; yet—he guilty ſtood,</l>
+                     <l>And's hoary Head, went to the Grave, in Blood.</l>
+                  </lg>
+                  <lg>
+                     <l>God owns Kings ſo, that, who ſo wrongs their right,</l>
+                     <l>Out-faces God, and doth his Power deſpite.</l>
+                     <l>For <hi>ſolo Deo minor,</hi> is the King;</l>
+                     <l>And He is Gods Immediate Underling.</l>
+                     <l>There's no Coercive Power under heaven,</l>
+                     <l>Againſt the King; but what's Directive given.</l>
+                     <l>
+                        <pb n="26" facs="tcp:50598:18"/>All Kings, are Sacred: and their Unction, is;</l>
+                     <l>Oyl-Holy—Gods: and All, myſterious Ties,</l>
+                     <l>From Evil, in the Heart; and Tongue; and Hand;</l>
+                     <l>Againſt their Perſons, and their juſt Command.</l>
+                     <l>Hence (ſure) it was, that <hi>Abſolon,</hi> was ſo;</l>
+                     <l>With fatal Arrows, ſmitten three times through:</l>
+                     <l>For's Heart, and Hand, and Tongue, did all, go on;</l>
+                     <l>To Act a threefold Treaſon; All in One.</l>
+                     <l>Or elſe becauſe, that Rebels are the Foes;</l>
+                     <l>Which do the bleſſed Trinity oppoſe.</l>
+                     <l>Or elſe becauſe, they do reſiſt the Way;</l>
+                     <l>Of God's: of States: and of the Churches Sway.</l>
+                     <l>A wretched End he had: twixt Heaven and Earth,</l>
+                     <l>Hang'd by his Hair, as in a Snare for death:</l>
+                     <l>In's height of Sin, and in his ſtrength of Treaſon;</l>
+                     <l>He's ſlain, untimely; in a timely Seaſon.</l>
+                  </lg>
+                  <lg>
+                     <l>Moſt Timely, as for <hi>David;</hi>
+                     </l>
+                     <l>Though untimely, as for <hi>Abſolon.</hi>
+                     </l>
+                     <l>Then ſaid <hi>Shemaiah,</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="7" type="speech">
+                  <head>
+                     <hi>Speaking</hi> The Seventh Speech.</head>
+                  <lg>
+                     <l>We muſt not think, unequal are God's wayes;</l>
+                     <l>Or, He denies us, when he us Delayes:</l>
+                     <l>We muſt not think, becauſe he doth forbear;</l>
+                     <l>That he forgets, what Sins, and Sinners are.</l>
+                     <l>God cannot be, but what he is: moſt True:</l>
+                     <l>Moſt Mighty: Wiſe: and what's moſt Juſt, will do.</l>
+                     <l>The Soul that Sins; ſhall Dye. God's only Son,</l>
+                     <l>(As one that Sin'd) before the Judge muſt come:</l>
+                     <l>Not for to Plead, yet can; nor ſtrive, yet able;</l>
+                     <l>Both to confute, and to confound, the Rabble:</l>
+                  </lg>
+                  <lg>
+                     <pb n="27" facs="tcp:50598:18"/>
+                     <l>But, as made Sin for Us; that Sin'd; that ſo—</l>
+                     <l>We that ſo Sinn'd, may be (as Juſt) let go:</l>
+                     <l>Him, as for Us; Us, as in Him; God tries:</l>
+                     <l>He bears our blame; and for our Sins he dies.</l>
+                  </lg>
+                  <lg>
+                     <l>Becauſe Chriſt took our Nature; to become,</l>
+                     <l>Our Pledge; our Price; and our Redemption:</l>
+                  </lg>
+                  <lg>
+                     <l>God is ſo Juſt, he will not ſpare his Son,</l>
+                     <l>But Sinful made—by Imputation:</l>
+                     <l>The Soul that Sins ſhall dye. And will God then,</l>
+                     <l>Excuſe the ſinfull'ſt of the Sons of Men?</l>
+                     <l>The Father's Sin, ſha'nt ly upon the Son;</l>
+                     <l>And ſhall the Subjects, on the King; and's Throne?</l>
+                     <l>Shall Rebels be unpuniſht, or ſhall they—</l>
+                     <l>That have condemn'd,—and made their King away,</l>
+                     <l>By an unheard-of-murder? ſhall they be</l>
+                     <l>Exempt from Juſtice, as by Law made Free?</l>
+                     <l>Shall They, that have deſpis'd the Son of God;</l>
+                     <l>And's Word, and's Will, (as under foot) have trod?</l>
+                     <l>Shall They be ever Green? and ſhall the Bayes,</l>
+                     <l>Of ſuch Offences, flouriſh to their Praiſe?</l>
+                     <l>Then, is our Faith in vain; and all our Hope,</l>
+                     <l>Of Retribution, as a Sandy Rope.</l>
+                     <l>We cleanſe our hearts, &amp; waſh our hands, for nought,</l>
+                     <l>But Inward Peace; which now as nothing's thought.</l>
+                     <l>We ſuffer much, and All, to Little end;</l>
+                     <l>If All to Loſs, and to Misfortune tend.</l>
+                     <l>Why then did <hi>Moſes,</hi> leave the Princely Sport,</l>
+                     <l>Of ſuch a Pallace, as was <hi>Pharaohs</hi> Court?</l>
+                     <l>Or, why did <hi>Joſeph</hi> ſhun the Courting Stream,</l>
+                     <l>Of Stollen waters, from his Princely Dame?</l>
+                     <l>Why were the Scriptures writ? and what ado—</l>
+                     <l>Is there of Judgement, and Damnation too?</l>
+                     <l>
+                        <pb n="28" facs="tcp:50598:19"/>What do we talk of God, of Heaven, or Hell,</l>
+                     <l>If they be beſt, that in the Worſt excel.</l>
+                     <l>'Twere vain indeed, the General ſayes,</l>
+                  </lg>
+               </div>
+               <div n="8" type="speech">
+                  <head>The Eight Speech.</head>
+                  <lg>
+                     <l>'Twere boot;—</l>
+                     <l>To Rant, and Rore; and have a <hi>Requiem</hi> to't.</l>
+                     <l>But it as True, as Old; and each one knows;</l>
+                     <l>That, Traitors Tryumphs, have their overthrows.</l>
+                     <l>Though <hi>Haggith</hi>'s Son, with Royal wings doth fly;</l>
+                     <l>And <hi>Joab,</hi> and <hi>Abiather</hi> ſtand by:</l>
+                     <l>Though He (by Them) have All, and Each, as Vile,</l>
+                     <l>Beſides Himſelf; Himſelf admires awhile.</l>
+                     <l>Though's Colours fly: and Drums in triumph beat:</l>
+                     <l>And Sounding Trumpets ſerve, to ſerve in's meat:</l>
+                     <l>Though All ſeem well; and nought as Ill, to ſee;</l>
+                     <l>What ere He does, and where ſo ere He be:</l>
+                     <l>Though Horſe, and Chariots, and his fifty Boyes,</l>
+                     <l>Do run before his Kingſhip:—All, are Toyes.</l>
+                  </lg>
+                  <lg>
+                     <l>For fall He ſhall: and fall He did; that Day,</l>
+                     <l>He made's Requeſt, He made his Life away.</l>
+                     <l>Thus,—its as true, as old; and Each one Knows;</l>
+                     <l>A Traitors weal, is Uſher to his Woes.</l>
+                     <l>Unlawful Acts, by means unlawful done;</l>
+                     <l>Are thin, and weak; and by the Spider ſpun.</l>
+                  </lg>
+                  <lg>
+                     <l>You Sacred Sir, can tell.</l>
+                     <l>I can: and Here;</l>
+                     <l>By Sacred Story, it ſhall plain appear,</l>
+                     <l>Saith the High Prieſt—in—</l>
+                  </lg>
+               </div>
+               <div n="9" type="speech">
+                  <head>The Ninth Speech.</head>
+                  <lg>
+                     <l>When <hi>Corah</hi>'s craft, had blear'd the Peoples Eyes,</l>
+                     <l>And made ſo many of the Princes Riſe:</l>
+                     <l>
+                        <pb n="29" facs="tcp:50598:19"/>The chiefeſt men; the men of moſt renown:</l>
+                     <l>Famous, for Birth; and for their Worth, made known:</l>
+                  </lg>
+                  <lg>
+                     <l>He as the Beſt; and only man for Zeal;</l>
+                     <l>Becomes the Speaker, for the publique Weal:</l>
+                     <l>And (by a kind of helliſh witchcraft led)</l>
+                     <l>They all ſubmit to this Rebellious Head:</l>
+                     <l>Who, having thus, ſuch Members to aſſiſt him;</l>
+                     <l>He goes to <hi>Moſes;</hi> and doth thus reſiſt him.</l>
+                     <l>You—you, Sir <hi>Moſes</hi> and your Brother too:<note place="margin">Corah.</note>
+                     </l>
+                     <l>Muſt All of Us, be trampled, on by You?</l>
+                     <l>What is the Reaſon, of Advancing thus,</l>
+                     <l>Your ſelves above your Brethren? <hi>God's with Us,</hi>
+                     </l>
+                     <l>As well as You: and All of Us (as One)</l>
+                     <l>Are Holy, in the Congregation.</l>
+                  </lg>
+                  <lg>
+                     <l>Wee'l not be Fool'd into a Regal way;</l>
+                     <l>And You, Command; and we (forſooth) Obey.</l>
+                     <l>What have you done (quoth <hi>Dathan</hi>) thus to be,<note place="margin">Dathan.</note>
+                     </l>
+                     <l>The only Two, for your Supremacy?</l>
+                     <l>Is't not enough, that from a wealthy Land</l>
+                     <l>(With Milk and Hony flowing) thy Command,—</l>
+                     <l>Hath led Us hither, to this barren Place;</l>
+                     <l>To be the Food, for Famine, and Diſgrace:</l>
+                     <l>Except Thou be our Prince: and make Us bow,</l>
+                     <l>And yield our Necks, to thy Subjuging too?</l>
+                  </lg>
+                  <lg>
+                     <l>Yes (quoth <hi>Abiram</hi>—<note place="margin">Abiram.</note>
+                     </l>
+                     <l>—Where are thoſe Fruitful fields;</l>
+                     <l>That Milk and Honey, and ſuch plenty yeilds?</l>
+                     <l>What wilt thou do? Doſt think, we do not ſee;</l>
+                     <l>Thy proud Intention, what thou meanſt to be?</l>
+                     <l>No, no, wee'l not come up: call—call agen;</l>
+                     <l>Let Them come up, that know no Stratagem.</l>
+                     <l>
+                        <pb n="30" facs="tcp:50598:20"/>We'l make you know your Princedom's not ſo great,</l>
+                     <l>But we are able to defeat your Feat.</l>
+                     <l>There's <hi>Corah</hi> come, and tell Him truly now,</l>
+                     <l>(Or we will make you) why ye make Us bow.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus what with words, and mixing Threars withall,</l>
+                     <l>
+                        <hi>Moſes</hi> and <hi>Aaron</hi> on their Faces Fall:</l>
+                     <l>As ſtrangely ſham'd: or zealouſly affear'd:</l>
+                     <l>To ſee the Lightning, from ſuch Thunder hear'd.</l>
+                  </lg>
+                  <lg>
+                     <l>They could not ſpeak, as yet: but ere awhile;</l>
+                     <l>
+                        <hi>Moſes</hi> doth tell them, in a fair-foul Stile;</l>
+                     <l>What they ſhould do; and ſhould from thence infer;</l>
+                     <l>VVhat Stars, were fixt; and what, Erratique were.</l>
+                  </lg>
+                  <lg>
+                     <l>They ſoon ſhould know who were the good, or bad;</l>
+                     <l>That God Secluded, or Selected had,</l>
+                     <l>To Miniſter before him: They ſhould ſee</l>
+                     <l>VVho Holy were, and who Unholy be.</l>
+                  </lg>
+                  <lg>
+                     <l>The Rebels then, they took (as <hi>Moſes</hi> ſaid)</l>
+                     <l>Cenſers, and Fire; and thereon Incenſe laid:</l>
+                     <l>And then (with <hi>Moſes</hi> and with <hi>Aaron</hi>) ſtood,</l>
+                     <l>Before the Place, where God his Glory ſhew'd.</l>
+                     <l>Before (their Prince and Prieſt, and now) the Lord,</l>
+                     <l>They ſtand (preſuming upon <hi>Corah</hi>'s word)</l>
+                     <l>And dare Appeal (as free from All Offence)</l>
+                     <l>To God's ſtrict Juſtice, and Omniſcience.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus,—damned Pride, leads Traitors to the worſt,</l>
+                     <l>Of wilful Sins, to make them moſt Accurſt:</l>
+                     <l>From One Sin, to Another; ſtill they go;</l>
+                     <l>And fear no Evil, till they feel the Blow:</l>
+                     <l>Which, ſhall ſo Sudden, and ſo Diſmal be;</l>
+                     <l>As, by the Vengeance; you, their Sin ſhall ſee.</l>
+                  </lg>
+                  <lg>
+                     <l>This—God, to <hi>Moſes: He,</hi> the People ſhews;</l>
+                     <l>VVho, <hi>Corahs</hi> Tents, and Congregation views.</l>
+                     <l>
+                        <pb n="31" facs="tcp:50598:20"/>They touch not, ought, is Theirs: but agen,</l>
+                     <l>Review, for Separation: <hi>Moſes</hi> then,</l>
+                     <l>Beſpeaks them thus.</l>
+                  </lg>
+                  <lg>
+                     <l>Now, ſhall you hereby know;</l>
+                     <l>Both who I am, and whence, and what I do,</l>
+                     <l>Is all from God: and what a Horrid Sin,</l>
+                     <l>ReBellion is, the way that <hi>Corah</hi>'s in.</l>
+                  </lg>
+                  <lg>
+                     <l>If you ſhall ſee, the Earth in ſunder cleave;</l>
+                     <l>And all theſe men, and whatſoe'er they have;</l>
+                     <l>Be ſwallowed, quick; and go alive, to Hell;</l>
+                     <l>Then, by the Vengeance; you, their Sin may tell.</l>
+                  </lg>
+                  <lg>
+                     <l>And as he ſpake, it was: a diſmal Grave,</l>
+                     <l>Did them, their Tents and all their Goods receave:</l>
+                     <l>And (nothing left) the Earth did cloſe agen,</l>
+                     <l>To be awarning for <hi>Rebellious Men,</hi>
+                     </l>
+                     <l>Who, but for ſpeaking, though they did not Do;</l>
+                     <l>The murderous Act, of bloudy Treaſon too:</l>
+                     <l>Yet,—ſee how ſtrictly, God in fury ſmites,</l>
+                     <l>The mouthy Tauntings, of the SaCRed Rites:</l>
+                     <l>The Earth, deſtroyes: the Fire, doth devour:</l>
+                     <l>The bold Blaſphemers, of the Higher Power.</l>
+                  </lg>
+                  <stage>With that all the Levites ſtood up, and having each of them an Inſtrument of Muſique in his hand:</stage>
+                  <lg>
+                     <l>They make Obeyſance to the King,</l>
+                     <l>And then they Play, and thus they ſing.</l>
+                  </lg>
+               </div>
+               <div n="2" type="song">
+                  <head>The Second Song.</head>
+                  <lg>
+                     <l>Sir, wait awhile; while God your Patience tries,</l>
+                     <l>By ſuffering Traitors, in their Villanies:</l>
+                     <l>For, there are woes</l>
+                     <l>For your Foes,</l>
+                     <l>Prepared:</l>
+                  </lg>
+                  <lg>
+                     <pb n="32" facs="tcp:50598:21"/>
+                     <l>Not a Common Viſitation, ſhall,</l>
+                     <l>Bold-bloody-Rebels, at the laſt befall,</l>
+                     <l>Then let not Thoſe,</l>
+                     <l>That Oppoſe,</l>
+                     <l>Be fear'd.</l>
+                  </lg>
+               </div>
+               <div type="chorus">
+                  <head>Chorus.</head>
+                  <lg>
+                     <l>Though <hi>Pharaoh</hi> Boaſt,</l>
+                     <l>He'l <hi>Iſrael</hi> confound:</l>
+                     <l>Yet <hi>Pharoh's</hi> croſt,</l>
+                     <l>And he and's Hoſt are Drownd.</l>
+                  </lg>
+                  <lg>
+                     <l>Sir be content; as <hi>Moſes</hi> was, by you:</l>
+                     <l>
+                        <hi>Moſes</hi> foretold: and may your Highneſs too:</l>
+                     <l>That, there are woes,</l>
+                     <l>For your Foes,</l>
+                     <l>Prepar'd:</l>
+                     <l>As <hi>Moſes</hi> did: So ſhall your Highneſs ſee,</l>
+                     <l>In <hi>Corah</hi>'s, <hi>Jeroboam</hi>'s Deſtinie:</l>
+                     <l>Then, let not Thoſe,</l>
+                     <l>That Oppoſe,</l>
+                     <l>Be fear'd.</l>
+                  </lg>
+               </div>
+               <div type="chorus">
+                  <head>Chorus.</head>
+                  <lg>
+                     <l>Though <hi>Pharaoh</hi> boaſt,</l>
+                     <l>He'l <hi>Iſrael</hi> confound;</l>
+                     <l>Yet <hi>Pharoh</hi>'s croſt,</l>
+                     <l>And He, and's Hoſt are Drownd.</l>
+                  </lg>
+                  <p>Then, as they made a Warbling Cloſe, both of their Song, and Muſique; Behold,</p>
+               </div>
+            </div>
+            <div n="5" type="show">
+               <head>The Fifth Shew's preſented; Being</head>
+               <p>A ſpacious Field, and two Armies, in Aray; the Kings, and the Rebels: and joyning Battel, the Kings ſide prevails.</p>
+               <p>
+                  <pb n="33" facs="tcp:50598:21"/>Whereupon (all crying <hi>Victoria, Victoria</hi>) an Old man (wearing a Mantle of Camels Hair, girt about with a Lethern Girdle) preſents Himſelf before the King; to whom (being demanded who he was, and what he would) he ſaid—</p>
+               <div n="10" type="speech">
+                  <head>The Tenth Speech.</head>
+                  <lg>
+                     <l>What needed <hi>Endors</hi> Witch, by Magick Spell,</l>
+                     <l>To make the Devil, a Prophet; and to tell—</l>
+                     <l>The fatal State of <hi>Saul?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>For, (firſt) his curſed ſparing <hi>Agag</hi>'s Self:<note place="margin">1.</note>
+                     </l>
+                     <l>Then (ſecondly) his Lying for the Pelf:<note place="margin">2.</note>
+                     </l>
+                     <l>Thirdly, his killing the Lord's Prieſts:<note place="margin">3.</note>
+                     </l>
+                     <l>And (fourthly) Hunting for—<note place="margin">4.</note>
+                     </l>
+                     <l>The pretious Life of <hi>David:</hi>
+                     </l>
+                     <l>(Whoſe worth, the Virgins, in a Dance did Sing;</l>
+                     <l>And next to <hi>Saul,</hi> was the Anointed King.)</l>
+                     <l>Fiftly, (deſpairing) his preſuming Folly,<note place="margin">5.</note>
+                     </l>
+                     <l>In <hi>Samuel</hi>'s place, to be (unholy) Holy:</l>
+                     <l>Laſtly, from God, unto a Witch, he going;</l>
+                     <l>Reſolves the Queſtion (to his juſt Undoing.)</l>
+                  </lg>
+                  <lg>
+                     <l>That Vengeance waits on Sinners: ſuch, as ſtill;</l>
+                     <l>Reſiſt the Good, and do perſiſt in Ill:</l>
+                     <l>Sin, with delight; and in their Spite, Oppoſe,</l>
+                     <l>God's way, and Will: God will (at laſt) Depoſe.</l>
+                     <l>What needed <hi>Endors</hi> Witch,</l>
+                     <l>By Magick Spell,—</l>
+                     <l>To make the Devil, a Prophet?</l>
+                  </lg>
+                  <lg>
+                     <l>This Truth, this Day, is with a Sun-beam writ;</l>
+                     <l>And Theſe, and After-times ſhall witneſs it.</l>
+                     <l>For th' bloud, of many hundred thouſands ſhed;</l>
+                     <l>The hideous Cries, of thouſands, almoſt dead:</l>
+                  </lg>
+                  <lg>
+                     <pb n="34" facs="tcp:50598:22"/>
+                     <l>The total-ſtrange Defeat: and direful Fate,</l>
+                     <l>Of <hi>Jeroboam;</hi>—In his tenfold State:</l>
+                     <l>His two and twenty years Poſſeſſion:</l>
+                     <l>His mighty Hoſt: Eight hundred thouſand ſtrong;</l>
+                     <l>His cunning Ambuſh: and his Forces, double:</l>
+                     <l>(Flouted, and routed; to his treble trouble.)</l>
+                     <l>Then,—his ſad <hi>Exit,</hi> from the Stage of warre;</l>
+                     <l>Shew,—what the Iſſues of Rebellion are.</l>
+                     <l>See, how the Field is ſtaind with Blood: and then—</l>
+                     <l>Obſerve the number: rally up agen,</l>
+                     <l>Thy thankful thoughts; don't wonder; in ſuch wayes,</l>
+                     <l>(Although ſo long permitted;—) that, their days;</l>
+                     <l>(At longeſt) are but ſhort; and bad (at Beſt)</l>
+                     <l>Not all their Pomp, can give one hour of Reſt.</l>
+                     <l>Their Guards are vain: their ſtrongeſt Bars, are weak:</l>
+                     <l>Their Sentinels, by night, and day, do ſpeak,</l>
+                     <l>Their Guilt, and Fear. Where's <hi>Jeroboam now?</hi>
+                     </l>
+                     <l>(The Old Commander) unto whom, did bow;</l>
+                     <l>So many, and they All;</l>
+                     <l>(The Sons of <hi>Belial.</hi>)</l>
+                     <l>Where's his Calf—Gods,</l>
+                     <l>And Idol (ſelf-made) Prieſts,</l>
+                     <l>Where's all his double-odds?</l>
+                     <l>Oh how is <hi>Iſrael,</hi> bewitcht, with Treaſon!</l>
+                     <l>Though God himſelf, be Captain for his King;</l>
+                     <l>And lead the van: and Angels, either Wing:</l>
+                     <l>Yet,—joyn they Battel; and their ſhooting to't:</l>
+                     <l>Till God draws out, &amp; breaks through Horſe &amp; Foot,</l>
+                     <l>Diſranks, Diſorders, and Deſtroyes the Foe,</l>
+                     <l>And gives at once, an utter Overthrow.</l>
+                     <l>I ſee it now,—and now, upon the Day;</l>
+                     <l>I come, the Tribute of my thanks to pay;</l>
+                     <l>
+                        <pb n="35" facs="tcp:50598:22"/>To pay, devoutly tender'd unto God;</l>
+                     <l>Who with his Holy Arm; and Iron Rod;</l>
+                     <l>Hath made the Truth, moſt timouſly to bring,</l>
+                     <l>Praiſe, to his Name: and Safety, to his King.</l>
+                  </lg>
+                  <p>Upon this, was an Allarm from within; and lamen<g ref="char:EOLhyphen"/>table out-cryes made; and thereupon,</p>
+               </div>
+            </div>
+            <div n="6" type="show">
+               <head>The Sixt, and laſt Shew's preſented, Being</head>
+               <p>Two Cities, <hi>Dan,</hi> and <hi>Bethel:</hi> and in <hi>Bethel,</hi> the Juncto-Council; wherein, ſate <hi>Jeroboam,</hi> in a Chair of State: Hell, under him; the Devil, behind him: and King <hi>Abijah</hi> in a Throne, above him: whom when the Rebel ſaw; he cries out—O Treaſon, Treaſon: what have I done, and how was I bewitch't. O Treaſon, Treaſon: ceaſing, to be Loyal; I left to be Religious; I firſt, forſook my King: and then my God:</p>
+               <lg>
+                  <l>Thus, by degrees I fell; and now, I fall;</l>
+                  <l>To be more wretched, then Accurſed <hi>Saul.</hi>
+                  </l>
+               </lg>
+               <p>With that, the Devil tares him in pieces, and throwes him into Hell. Whereupon, the Party for <hi>Abijah,</hi> clap their hands: and (praiſing God, and Praying for the King) the Levites take again their ſeveral Inſtruments of Muſick; and (one holding ap the Picture of <hi>Jerobo<g ref="char:EOLhyphen"/>am,</hi> in a frame of Gold.) thy ſung</p>
+               <div n="3" type="song">
+                  <head>The Third and laſt ſong.</head>
+                  <p>As they began, there came in ſix Maſquers; each in green ſilk; wrought over with gold ſpangles: their Temples wreath'd with Bayes; their Vizards all diffe<g ref="char:EOLhyphen"/>rent, but beautiful and ſmiling.</p>
+                  <p>
+                     <pb n="36" facs="tcp:50598:23"/>Theſe ſix (at the cloſe of every Eight verſes) dance the Antique; and Dancing, ſing the Chorus.)</p>
+                  <lg>
+                     <head>1.</head>
+                     <l>The Perſon, and his Power's gone:</l>
+                     <l>What's worth your Contemplation?</l>
+                     <l>This Picture? or this fairer Frame?</l>
+                     <l>(Deſerving better then it's Name)</l>
+                     <l>No, no, th' memory, the Sight;</l>
+                     <l>Each Part, and Faculty, that's right;</l>
+                     <l>Abhors the Shadow of the faireſt, Paint,<note place="margin">He throws the Picture down, and breaks it.</note>
+                     </l>
+                     <l>Which makes the fouleſt Devil ſeem a Saint.</l>
+                  </lg>
+                  <div type="chorus">
+                     <head>The CHORUS.</head>
+                     <lg>
+                        <l>Come, dance we may,</l>
+                        <l>'Tis <hi>Pſyche's</hi> Play;</l>
+                        <l>And Holy-day,</l>
+                        <l>At Court,</l>
+                        <l>At Court;</l>
+                        <l>And Holy-day,</l>
+                        <l>At Court:</l>
+                        <l>Traitors (though Crown'd,</l>
+                        <l>And moſt Renown'd)</l>
+                        <l>God will confound,</l>
+                        <l>With ſport,</l>
+                        <l>With ſport;</l>
+                        <l>God will confound,</l>
+                        <l>With ſport.</l>
+                     </lg>
+                     <lg>
+                        <head>2.</head>
+                        <l>God did, and doth, and ere will Bleſs,</l>
+                        <l>The Better Cauſe, with Beſt Succeſs.</l>
+                        <l>Traitors may ſpeed awhile; and bring;</l>
+                        <l>A ſhameful <hi>EXIT,</hi> on their King:</l>
+                        <l>
+                           <pb n="37" facs="tcp:50598:23"/>Rebels may Rule, untill their Sins,</l>
+                        <l>Be ripe for Judgment: then begins,</l>
+                        <l>The juſt Obſerver of the <hi>Prince</hi>'s wrongs;</l>
+                        <l>To plead their Rights, in ſpite of Rebels tongues.</l>
+                     </lg>
+                  </div>
+                  <div type="chorus">
+                     <head>CHORUS.</head>
+                     <lg>
+                        <l>With Muſique choyce,</l>
+                        <l>Of Hand and Voyce;</l>
+                        <l>Sing and rejoyce;</l>
+                        <l>We may,</l>
+                        <l>We may;</l>
+                        <l>Sing, and rejoyce,</l>
+                        <l>We may:</l>
+                        <l>The Traitors Crown,</l>
+                        <l>And all's Renown,</l>
+                        <l>Is fallen down,</l>
+                        <l>To day,</l>
+                        <l>To day,</l>
+                        <l>Is fallen down</l>
+                        <l>To day.</l>
+                     </lg>
+                     <lg>
+                        <head>3.</head>
+                        <l>The Lord of Hoſts, the King is for;</l>
+                        <l>And <hi>Regicide</hi> doth moſt abhorre:</l>
+                        <l>He'le fright, and ſmire the proudeſt He,</l>
+                        <l>That's guilty of Diſloyaltie.</l>
+                        <l>The Scepter, from Uſurpers hands,</l>
+                        <l>Shall fall by horrid Countermands.</l>
+                        <l>And all the Guiltleſſe Blood, that hath bin ſpilt;</l>
+                        <l>Shall (to their torment) be their Endleſſe Guilt.</l>
+                     </lg>
+                  </div>
+                  <div type="chorus">
+                     <head>CHORUS.</head>
+                     <lg>
+                        <l>Come, dance, we may,</l>
+                        <l>'Tis <hi>Pſyche</hi>'s Play,</l>
+                        <l>
+                           <pb n="38" facs="tcp:50598:24"/>And Holy-day,</l>
+                        <l>At Court,</l>
+                        <l>At Court;</l>
+                        <l>And Holy-day,</l>
+                        <l>At Court:</l>
+                        <l>Traitors (though Crown'd,</l>
+                        <l>And moſt Renown'd)</l>
+                        <l>God will confound,</l>
+                        <l>With ſport,</l>
+                        <l>With ſport:</l>
+                        <l>God will confound,</l>
+                        <l>With ſport.</l>
+                     </lg>
+                     <lg>
+                        <head>4.</head>
+                        <l>Here's <hi>Jeroboam,</hi> who of late,</l>
+                        <l>Did Check the <hi>King;</hi> hath now Check mate,</l>
+                        <l>And all his Choſen men of Warre,</l>
+                        <l>Eight hundred thouſand ſtrong; yet are,</l>
+                        <l>Defeated, and deſtroyed ſo,</l>
+                        <l>With ſuch a fearfull-fatall blow:</l>
+                        <l>The Higheſt Traitor may his Downfall ſee;</l>
+                        <l>And in's Rebellion finde a Prodigie.</l>
+                     </lg>
+                  </div>
+                  <div type="chorus">
+                     <head>CHORUS.</head>
+                     <lg>
+                        <l>With Muſique choyce,</l>
+                        <l>Of Hand, and Voyce;</l>
+                        <l>Sing, and rejoyce,</l>
+                        <l>We may,</l>
+                        <l>We may,</l>
+                        <l>Sing, and rejoyce,</l>
+                        <l>We may.</l>
+                        <l>The Traitors Crown,</l>
+                        <l>And all's Renown,</l>
+                        <l>
+                           <pb n="39" facs="tcp:50598:24"/>Is fallen down,</l>
+                        <l>To day,</l>
+                        <l>To day,</l>
+                        <l>Is fallen down,</l>
+                        <l>To day,</l>
+                     </lg>
+                     <p>
+                        <hi>With that, there was a Sound of Drums and Trum<g ref="char:EOLhyphen"/>pets: and</hi> Pſyche <hi>(with an obſervant haſte) goes, to preſent the</hi> King, <hi>with the</hi> Maſque, <hi>in writing. Which done,</hi> Pſyche'<hi>s good Angel be ſpeaks her thus;</hi>
+                     </p>
+                     <lg>
+                        <l>Come prethee <hi>Pſyche</hi> haſte away,</l>
+                        <l>Upon the Earth,</l>
+                        <l>Is no long mirth:</l>
+                        <l>And I am gone, nor may You ſtay.</l>
+                     </lg>
+                     <lg>
+                        <l>She hears, ſhe anſwers; and ſhe cryes,</l>
+                        <l>Let none think much,</l>
+                        <l>Our mirth is ſuch;</l>
+                        <l>And by an <hi>Eccho,</hi> He replies.</l>
+                        <l>as followeth, in</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <div type="epilogue">
+               <head>The EPILOGUE.</head>
+               <p>Pſyche. Angel.</p>
+               <lg>
+                  <l>Ah woe is me (unhappy One)</l>
+                  <l>And is my Guide, and Guard, thus gone?</l>
+                  <l>
+                     <hi>ECCHO. Gone.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But hark, ye'nt That, the Muſique choyce,</l>
+                  <l>Of his fair Hand, and warbling Voyce?</l>
+                  <l>
+                     <hi>O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Eccho</hi>'s His: ah could I know,</l>
+                  <l>But whether I am mockt, or no?</l>
+                  <l>
+                     <hi>Noe.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <pb n="40" facs="tcp:50598:25"/>Pſyche. Angel.</p>
+               <lg>
+                  <l>Oh (my deareſt) were I there,</l>
+                  <l>Or (my deareſt) were you here.</l>
+                  <l>
+                     <hi>ECCHO. U—here.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Deſcend I prethee, and fullfill,</l>
+                  <l>Or mine, or Thine; what's your's my Will.</l>
+                  <l>
+                     <hi>I—will.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Oh haſte, I faint; what ſhall I ſay?</l>
+                  <l>What ſhall I doe? Oh ſpeak, I pray.</l>
+                  <l>
+                     <hi>Pray.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Duty's juſt; and I'le perſever,</l>
+                  <l>(If thou wilt <hi>Teach</hi> me) in It ever.</l>
+                  <l>
+                     <hi>Ever.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>With that, ſhe Bowes, &amp; Kneels; and (Kneeling) prayes:</hi>
+                  </l>
+                  <l>
+                     <hi>The Angel comes, and each (Aſcending) ſayes:</hi>
+                  </l>
+                  <l>Farewell,</l>
+                  <l>Fare-well:</l>
+                  <l>—Yea, Wellfare may our Farewell be,</l>
+                  <l>To his moſt <hi>ſaCRed Majeſty.</hi>
+                  </l>
+                  <l>The (1) Oak, the (2) Olive, and the (3) Vine,</l>
+                  <l>Their Boughs, as well as Roots, entwine.</l>
+                  <l>The (1) ſtately; (2) cheerfull, (3) fruitfull Trees.</l>
+                  <l>Emblematize Proſperitie:</l>
+                  <l>That; (1) <hi>Power, (2) Peace, (3) &amp; Plenty,</hi> may—</l>
+                  <l>Be ſtill our Pillars, for our <hi>Stay.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Enough,—now, our <hi>Divining Maſque</hi> is done:</l>
+                  <l>We muſt attend upon the <hi>Riſing Sunne.</hi>
+                  </l>
+                  <l>Leaving <hi>Good Times,</hi> to prove our <hi>Better Newes,</hi>
+                  </l>
+                  <l>As True, as Told, in <hi>Speeches, Songs,</hi> and <hi>Shemes.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
